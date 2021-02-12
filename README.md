@@ -512,3 +512,89 @@ http://128.199.212.160/channelt1/1080/index.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ayna.jpg" group-title="BANGLA",Ayna IPTV [BD]
 http://str24.l9574.com/510.stream/tracks-v1a1/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ul1hoiovemyyhp8/channel_i.png" group-title="CMCL TV",CHANNEL I HD [BD]
+http://103.102.136.106:8080/cmcltv/channeli_th.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/189fwepu9ab32gw/channel9_bd.png" group-title="CMCL TV",Gazi TV HD [BD]
+http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="CMCL TV",Maasraga TV HD [BD]
+http://103.102.136.106:8080/cmcltv/masranga_th.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="CMCL TV",SOMOY TV [BD]
+http://103.102.136.106:8080/cmcltv/somoy_th.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="CMCL TV",CHANNEL 24 [BD]
+http://103.102.136.106:8080/cmcltv/channel24_th.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/zz46867ifm3fm6i/duronto-tv-bd.png" group-title="CMCL TV",DURONTO TV [BD]
+http://103.102.136.106:8080/cmcltv/duronto_th.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Gaan_Bangla.png/220px-Gaan_Bangla.png" group-title="CMCL TV",Gaan Bangla [BD]
+http://103.102.136.106:8080/cmcltv/gaanbangla_th.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="CMCL TV",Zee Bangla SD [IN] (2)
+http://103.102.136.106:8080/cmcltv/tcm_zeebanglacm.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="CMCL TV",Colors Bangla SD
+http://103.102.136.106:8080/cmcltv/tcm_colorsbanglacm.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="CMCL TV",Sony Aath [IN] (1)
+http://103.102.136.106:8080/cmcltv/tcm_sonyaat.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="CMCL TV",COLORS
+http://103.102.136.106:8080/cmcltv/tcm_colors.m3u8
+#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="CMCL TV",SONY
+http://103.102.136.106:8080/cmcltv/tcm_sonyhdcm.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg" group-title="CMCL TV",SONY Max
+http://103.102.136.106:8080/cmcltv/tcm_sonymax.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="CMCL TV",Zee Cinema
+http://103.102.136.106:8080/cmcltv/tcm_zeecinema.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="CMCL TV",BBC News
+http://103.102.136.106:8080/cmcltv/tcm_bbc.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSU1ws4_gATfoOPflkM8o6dpJSomQ_9IO4LRKXiNo5IxJbSuFf4&usqp=CAU" group-title="CMCL TV",CNN News
+http://103.102.136.106:8080/cmcltv/tcm_cnnnews.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGIMKZny9iOwyHjXWYk6r6sCCq6UMW2rZGUg&usqp=CAU" group-title="CMCL TV",Live Sports
+http://103.102.136.106:8080/cmcltv/livesports.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGIMKZny9iOwyHjXWYk6r6sCCq6UMW2rZGUg&usqp=CAU" group-title="CMCL TV",Live Sports 2
+http://103.102.136.106:8080/cmcltv/livesports-2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGIMKZny9iOwyHjXWYk6r6sCCq6UMW2rZGUg&usqp=CAU" group-title="CMCL TV",Live Sports 3
+http://103.102.136.106:8080/cmcltv/tcm_live3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGIMKZny9iOwyHjXWYk6r6sCCq6UMW2rZGUg&usqp=CAU" group-title="CMCL TV",Live Sports 4
+http://103.102.136.106:8080/cmcltv/tcm_live4.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNVGhs7QhbNaKPnV8CB3v-AWYPXm0Ogk67mx__hKnLLrEddb-y&usqp=CAU" group-title="CMCL TV",Sony Ten 1
+http://103.102.136.106:8080/cmcltv/tcm_ten1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBTnEK5BWeUD2NioqBxKSXvBrS2hOvgtATkw&usqp=CAU" group-title="CMCL TV",Sony Ten 2
+http://103.102.136.106:8080/cmcltv/tcm_ten2.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_Gazi TV
+http://otv.ftpbd.net/streams/108/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_Channel 9
+http://otv.ftpbd.net/streams/108/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_Ekattor
+http://otv.ftpbd.net/streams/128/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_Zee bangla
+http://otv.ftpbd.net/streams/107/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_Sony Max
+http://otv.ftpbd.net/streams/109/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_Star Sports 1 HD
+http://otv.ftpbd.net/streams/104/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_Star Sports 2 HD
+http://otv.ftpbd.net/streams/116/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_Star Sports Select 1 HD
+http://otv.ftpbd.net/streams/113/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_Star Sports Select 2 HD
+http://otv.ftpbd.net/streams/114/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_Sony Ten1
+http://otv.ftpbd.net/streams/105/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_Sony Ten 2
+http://otv.ftpbd.net/streams/112/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_Sont Six
+http://otv.ftpbd.net/streams/106/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_Jalsha Movies
+http://otv.ftpbd.net/streams/115/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_Disney
+http://otv.ftpbd.net/streams/122/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_CN
+http://otv.ftpbd.net/streams/123/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_UTV Action
+http://otv.ftpbd.net/streams/124/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_Star Movies HD
+http://otv.ftpbd.net/streams/125/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_National Geographic HD
+http://otv.ftpbd.net/streams/110/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_Discovery
+http://otv.ftpbd.net/streams/121/index.m3u8
+
+
+
