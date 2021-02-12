@@ -375,13 +375,13 @@ https://rhridoy136.shortcm.li/sangsadtv.m3u8
 https://rhridoy136.shortcm.li/satv.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg?x91288" group-title="BANGLA",Shomoy TV
 https://rhridoy136.shortcm.li/shomoytv.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="BANGLAi",18.Boishakhi
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="BANGLA",18.Boishakhi
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BKJ6bs4/Channel-t1.png" group-title="BANGLAi",32.Channel T1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BKJ6bs4/Channel-t1.png" group-title="BANGLA",32.Channel T1
 http://128.199.212.160/channelt1/1080/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/kxFshHZ.png" group-title="BANGLAi",33.Alif TV
+#EXTINF:0 tvg-logo="https://i.imgur.com/kxFshHZ.png" group-title="BANGLA",33.Alif TV
 http://128.199.212.160/alif/1080/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BANGLAi",59.KTV Bangla
+#EXTINF:-1 tvg-logo="" group-title="BANGLA",59.KTV Bangla
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ayna IPTV [BD]" tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ayna.jpg" group-title="BANGLA",Ayna IPTV [BD]
 http://str24.l9574.com/510.stream/tracks-v1a1/index.m3u8
