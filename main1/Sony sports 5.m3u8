@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
+https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+
