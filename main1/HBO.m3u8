@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-http://fl3.moveonjoy.com/HBO/index.m3u8
+http://s5.alltvfree.com:8081/live/hbo_720p/playlist.m3u8
