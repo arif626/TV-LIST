@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="PTV" tvg-id="PTV",PTV
+http://10.20.30.30:8989/PTV/video.m3u8?token=pWoSgX2RAs0c80
+#EXTINF:-1 tvg-name="WILLOW" tvg-id="WILLOW",WILLOW
+http://10.20.30.30:8989/WILLOW/video.m3u8?token=pWoSgX2RAs0c80
+#EXTINF:-1 tvg-name="LALIGA" tvg-id="LALIGA",LALIGA
+http://10.20.30.30:8989/LALIGA/video.m3u8?token=pWoSgX2RAs0c80
+#EXTINF:-1 tvg-name="StarSportSL_1" tvg-id="StarSportSL_1",StarSportSL_1
+http://10.20.30.30:8989/StarSportSL_1/video.m3u8?token=pWoSgX2RAs0c80
+#EXTINF:-1 tvg-name="SonyTen1" tvg-id="SonyTen1",SonyTen1
+http://10.20.30.30:8989/SonyTen1/video.m3u8?token=pWoSgX2RAs0c80
+#EXTINF:-1 tvg-name="WILLOWHD" tvg-id="WILLOWHD",WILLOWHD
+http://10.20.30.30:8989/WILLOWHD/video.m3u8?token=pWoSgX2RAs0c80
+#EXTINF:-1 tvg-name="WILLOWHD2" tvg-id="WILLOWHD2",WILLOWHD2
+http://10.20.30.30:8989/WILLOWHD2/video.m3u8?token=pWoSgX2RAs0c80
+#EXTINF:-1 tvg-name="Sports_1" tvg-id="Sports_1",Sports_1
+http://10.20.30.30:8989/Sports_1/video.m3u8?token=pWoSgX2RAs0c80
+#EXTINF:-1 tvg-name="Sports_2" tvg-id="Sports_2",Sports_2
+http://10.20.30.30:8989/Sports_2/video.m3u8?token=pWoSgX2RAs0c80
+#EXTINF:-1 tvg-name="Sports_3" tvg-id="Sports_3",Sports_3
+http://10.20.30.30:8989/Sports_3/video.m3u8?token=pWoSgX2RAs0c80
+#EXTINF:-1 tvg-name="Sports_4" tvg-id="Sports_4",Sports_4
+http://10.20.30.30:8989/Sports_4/video.m3u8?token=pWoSgX2RAs0c80
+#EXTINF:-1 tvg-name="SonyTen5" tvg-id="SonyTen5",SonyTen5
+http://10.20.30.30:8989/SonyTen5/video.m3u8?token=pWoSgX2RAs0c80
+#EXTINF:-1 tvg-name="SonyTen2" tvg-id="SonyTen2",SonyTen2
+http://10.20.30.30:8989/SonyTen2/video.m3u8?token=pWoSgX2RAs0c80
+#EXTINF:-1 tvg-name="Srktv" tvg-id="Srktv",Srktv
+http://10.20.30.30:8989/Srktv/video.m3u8?token=pWoSgX2RAs0c80
+#EXTINF:-1 tvg-name="PeaceTvBangla" tvg-id="PeaceTvBangla",PeaceTvBangla
+http://10.20.30.30:8989/PeaceTvBangla/video.m3u8?token=pWoSgX2RAs0c80
